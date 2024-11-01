@@ -6,7 +6,7 @@
    ![Revenue](https://github.com/mayureshmakawar/-Sales-Pulse-Insights-for-Dynamic-Markets/blob/main/Screenshot%202024-11-01%20234851.png)
    
 3. **Quantity Dashboard**: Visualizes product quantities sold, helping to assess inventory levels and understand sales patterns.
-   ![Revenue]()
+   ![Revenue](https://github.com/mayureshmakawar/-Sales-Pulse-Insights-for-Dynamic-Markets/blob/main/Screenshot%202024-11-01%20234908.png)
 4. **Profit Dashboard**: Analyzes profit margins across various products and categories, providing insights into profitability and cost management.
    ![Revenue]()
 5. **Discount Dashboard**: Shows the impact of discounts on sales performance, helping to evaluate promotional effectiveness.
