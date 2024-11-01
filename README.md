@@ -10,7 +10,7 @@
 4. **Profit Dashboard**: Analyzes profit margins across various products and categories, providing insights into profitability and cost management.
    ![Profit](https://github.com/mayureshmakawar/-Sales-Pulse-Insights-for-Dynamic-Markets/blob/main/Screenshot%202024-11-01%20234929.png)
 5. **Discount Dashboard**: Shows the impact of discounts on sales performance, helping to evaluate promotional effectiveness.
-   ![Discount]()
+   ![Discount](https://github.com/mayureshmakawar/-Sales-Pulse-Insights-for-Dynamic-Markets/blob/main/Screenshot%202024-11-01%20234951.png)
 6. **Focal Point Dashboard**: Offers a strategic overview of critical metrics, assisting in decision-making processes for targeted business strategies.
    ![Focal Point]()
 
